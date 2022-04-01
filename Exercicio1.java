@@ -1,3 +1,7 @@
+/*Crie um algoritmo que receba 4 notas de um aluno, calcule a média
+e exiba se o aluno foi aprovado ou não.
+Obs: a média de aprovação é 7*/
+
 import java.util.Scanner;
 
 public class Exercicio1 {

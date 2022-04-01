@@ -1,3 +1,15 @@
+/*Crie um algoritmo que receba a altura e peso do usuário, calcule seu
+IMC e exiba sua classificação.
+OBS: Fórmula: IMC = peso/ (altura x altura), a classificação se
+encontra na tabela abaixo:
+
+IMC CLASSIFICAÇÃO OBESIDADE (GRAU)
+MENOR QUE 18,5 MAGREZA 0
+ENTRE 18,5 E 24,9 NORMAL 0
+ENTRE 25,0 E 29,9 SOBREPESO I
+ENTRE 30,0 E 39,9 OBESIDADE II
+MAIOR QUE 40,0 OBESIDADE GRAVE III*/
+
 import java.util.Scanner;
 
 public class Exercicio2 {
